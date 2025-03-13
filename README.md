@@ -29,8 +29,17 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia, com foco
 -   **Versionamento:** Git & GitHub
 -   **Outras Ferramentas:** Docker, Figma, VS Code, IntelliJ IDEA, PyCharm
 
+### Certificações
+
+-   AWS Certified Cloud Practitioner
+-   AWS Security Best Practices (Udemy)
+-   Computação em Nuvem Amazon AWS para Iniciantes (Udemy)
+-   Machine Learning com Amazon AWS e SageMaker (Udemy)
+-   Formação de Processamento de Linguagem Natural e LLM (Udemy)
+-   EFSET English Certificate - C1 Advanced (EF SET)
+
 ### Entre em Contato Comigo
 
 -   ✉️ davihsiqueira211@email.com
--    [LinkedIn](https://www.linkedin.com/in/davi-herm%C3%B3genes-siqueira-52a780216/)
--    [GitHub](https://github.com/DaviSiq)
+-   [LinkedIn](https://www.linkedin.com/in/davi-herm%C3%B3genes-siqueira-52a780216/)
+-   [GitHub](https://github.com/DaviSiq)
