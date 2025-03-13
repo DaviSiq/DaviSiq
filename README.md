@@ -18,15 +18,14 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia, com foco
     -   Metodologias ágeis (Kanban/Scrum)
 -   **Desenvolvedor Front-end na EmakersJr (Junho 2023 - Janeiro 2025)**
     -   Desenvolvimento de interfaces com ReactJS e Bootstrap
-    -   Participação em projetos como União Farelos e Landing Page da EmakersJr
-    -   Refatoração de sistemas para a AlfaJr
+    -   Participação em projetos reais e refatoração de sistemas
 
 ### Habilidades Técnicas
 
 -   **Linguagens e Ferramentas:** Python, JavaScript, C/C++, Java, SQL, Node.js
 -   **Frameworks/Bibliotecas:** ReactJS, Express, Bootstrap
 -   **Computação em Nuvem:** AWS (SageMaker, Lex, Bedrock, Rekognition, Polly)
--   **Banco de Dados:** MySQL
+-   **Banco de Dados:** MySQL, PostgreSQL
 -   **Versionamento:** Git & GitHub
 -   **Outras Ferramentas:** Docker, Figma, VS Code, IntelliJ IDEA, PyCharm
 
