@@ -19,7 +19,7 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia, com foco
 -   **Linguagens:** Python, JavaScript, C/C++, Java, SQL
 -   **Frameworks/Bibliotecas:** ReactJS, Express, Bootstrap
 -   **Computação em Nuvem:** AWS
--   **Banco de Dados:** MySQL
+-   **Banco de Dados:** MySQL, PostgreSQL
 -   **Outras Ferramentas:** Git, Docker, Figma
 
 ### Certificações
