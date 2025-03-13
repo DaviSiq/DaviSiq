@@ -1,42 +1,32 @@
-## Olá, me chamo Davi! 
+## Olá, me chamo Davi!
 
-Sou um estudante de Ciência da Computação apaixonado por tecnologia, com foco em desenvolvimento de sistemas, computação em nuvem e inteligência artificial. Atualmente, estou no oitavo período na Universidade Federal de Lavras (UFLA).
+Sou um estudante de Ciência da Computação apaixonado por tecnologia, com foco em computação em nuvem e inteligência artificial. Atualmente, estou no oitavo período na Universidade Federal de Lavras (UFLA).
 
 ### Áreas de Interesse
 
--   Desenvolvimento de Sistemas
 -   Computação em Nuvem (AWS)
 -   Inteligência Artificial e Machine Learning
+-   Desenvolvimento de Sistemas
 -   Desenvolvimento Front-end
 
 ### Experiência
 
--   **Estagiário na Compass UOL (Abril 2024 - Setembro 2024)**
-    -   Desenvolvimento de projetos em AWS (SageMaker, Lex, Bedrock, Rekognition, Polly)
-    -   Treinamento e predição de modelos de Machine Learning com Docker e SageMaker
-    -   Criação de chatbots integrados ao Slack e Telegram
-    -   Metodologias ágeis (Kanban/Scrum)
--   **Desenvolvedor Front-end na EmakersJr (Junho 2023 - Janeiro 2025)**
-    -   Desenvolvimento de interfaces com ReactJS e Bootstrap
-    -   Participação em projetos reais e refatoração de sistemas
+-   **Compass UOL:** Estágio em desenvolvimento de projetos AWS, com foco em Machine Learning e chatbots.
+-   **EmakersJr:** Desenvolvimento Front-end com ReactJS e Bootstrap.
 
 ### Habilidades Técnicas
 
--   **Linguagens e Ferramentas:** Python, JavaScript, C/C++, Java, SQL, Node.js
+-   **Linguagens:** Python, JavaScript, C/C++, Java, SQL
 -   **Frameworks/Bibliotecas:** ReactJS, Express, Bootstrap
--   **Computação em Nuvem:** AWS (SageMaker, Lex, Bedrock, Rekognition, Polly)
--   **Banco de Dados:** MySQL, PostgreSQL
--   **Versionamento:** Git & GitHub
--   **Outras Ferramentas:** Docker, Figma, VS Code, IntelliJ IDEA, PyCharm
+-   **Computação em Nuvem:** AWS
+-   **Banco de Dados:** MySQL
+-   **Outras Ferramentas:** Git, Docker, Figma
 
 ### Certificações
 
--   AWS Certified Cloud Practitioner
--   AWS Security Best Practices (Udemy)
--   Computação em Nuvem Amazon AWS para Iniciantes (Udemy)
+-   **AWS Certified Cloud Practitioner:** Esta certificação valida o conhecimento fundamental dos serviços AWS, como EC2, S3, Lambda e outros. Ela demonstra minha capacidade de entender e aplicar os conceitos básicos da computação em nuvem da AWS.
 -   Machine Learning com Amazon AWS e SageMaker (Udemy)
 -   Formação de Processamento de Linguagem Natural e LLM (Udemy)
--   EFSET English Certificate - C1 Advanced (EF SET)
 
 ### Entre em Contato Comigo
 
