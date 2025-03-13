@@ -28,6 +28,8 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia, com foco
 -   Machine Learning com Amazon AWS e SageMaker (Udemy)
 -   Formação de Processamento de Linguagem Natural e LLM (Udemy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSiq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Entre em Contato Comigo
 
 -   ✉️ davihsiqueira211@email.com
