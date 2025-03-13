@@ -31,6 +31,6 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia, com foco
 
 ### Entre em Contato Comigo
 
--   ✉️ seuemail@email.com
--    [LinkedIn](https://www.linkedin.com/in/seuperfil)
+-   ✉️ davihsiqueira211@email.com
+-    [LinkedIn](https://www.linkedin.com/in/davi-herm%C3%B3genes-siqueira-52a780216/)
 -    [GitHub](https://github.com/DaviSiq)
