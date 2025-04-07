@@ -1,30 +1,35 @@
-# Olá, sou Davi! 👋
+Olá! 👋 Eu sou Davi Hermógenes Siqueira, estudante de Ciência da Computação com experiência em AWS e Machine Learning. Durante meu estágio na Compass UOL, aprofundei meus conhecimentos em ML IA e computação em nuvem, utilizando Python para o desenvolvimento de funções Lambda dentro do ambiente AWS. Tenho também sólida formação acadêmica no desenvolvimento de sistemas em Java, C++ e C.
 
-Estudante de Ciência da Computação (8º período) na UFLA, apaixonado por tecnologia, com foco em Computação em Nuvem e Inteligência Artificial. Experiência em AWS, Machine Learning e desenvolvimento Front-end.
+🎓 **Educação**
 
-##  Educação
+Universidade Federal de Lavras - UFLA
+Ciência da Computação (Em progresso)
 
-**Universidade Federal de Lavras (UFLA)** - Ciência da Computação (Em progresso)
+💼 **Experiência**
 
-##  Experiência
+Estagiário na Compass UOL: Desenvolvimento de projetos com Amazon Sagemaker, Lex, Bedrock, rekognition e Polly.
+Desenvolvedor Front-end na Emakers.Jr: Utilização de reactJS e Bootstrap.
 
-**Compass UOL:** Estágio em desenvolvimento de projetos AWS (Machine Learning, Chatbots)
-**EmakersJr:** Desenvolvimento Front-end (ReactJS, Bootstrap)
+🛠️ **Projetos Relevantes**
 
-##  Habilidades
+Mononoke Tales: Sistema completo desenvolvido com Node.js, Mysql, Boostrap, Express e React.js.
+Scraper de Preços de Jogos da Steam: Sistema para coletar dados sobre jogos em promoção, utilizando Docker, Python, Javascript, HTML e CSS.
+Algoritmos de caminho mais curto para determinação de vértices cruciais em redes neurais: Projeto desenvolvido em C++ com CodeBlocks.
 
-**Linguagens:** Python, JavaScript, C/C++, Java, SQL
-**Frameworks/Bibliotecas:** ReactJS, Express, Bootstrap
-**Computação em Nuvem:** AWS
-**Banco de Dados:** MySQL, PostgreSQL
-**Ferramentas:** Git, Docker, Figma
+💻 **Tecnologias**
 
-##  Certificações
+Linguagens/Ferramentas: C++/C, Java, SQL, Node.js, HTML, CSS, Figma, MySql, React, Python, Docker, AWS, ML IA, Git, Github, Visual Studio Code, Intellij IDEA, PyCharm.
+
+🏅 **Certificados**
 
 AWS Certified Cloud Practitioner
-Outras certificações (Udemy)
+E outros cursos na Udemy relacionados a AWS, Machine Learning e Processamento de Linguagem Natural.
 
-##  Contato
-- ✉️ davihsiqueira211@email.com
-[LinkedIn](https://www.linkedin.com/in/davi-herm%C3%B3genes-siqueira-52a780216/)
-[GitHub](https://github.com/DaviSiq)
+🤝 **Competências e Habilidades**
+
+Colaboração e Trabalho em Equipe
+Comunicação Clara e Objetiva
+Resolução de Problemas e Pensamento Analítico
+Organização e Gestão de Tempo
+
+Sinta-se à vontade para explorar meus projetos no GitHub! 😊
