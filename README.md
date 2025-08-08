@@ -2,17 +2,13 @@
 
  Computer Science Graduate  
  Interested in **AI**, **Data Science**, **Data analysis**
-
+- [LinkedIn](https://www.linkedin.com/in/davi-herm%C3%B3genes-52a780216/)  
+- [Gmail](mailto:davihsiqueira211@gmail.com)  
 ---
 
 ##  GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSiq&layout=compact)
 
----
 
 
-##  Contact
-
-- [LinkedIn](https://www.linkedin.com/in/davi-herm%C3%B3genes-52a780216/)  
-- [Gmail](mailto:davihsiqueira211@gmail.com)  
