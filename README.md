@@ -1,7 +1,7 @@
 
 
  Computer Science Graduate  
- Interested in **AI**, **Data Science**, **Data analysis**
+ Interested in **AI** and **Data Science**
 - [LinkedIn](https://www.linkedin.com/in/davi-herm%C3%B3genes-52a780216/)  
 - [Gmail](mailto:davihsiqueira211@gmail.com)  
 ---
